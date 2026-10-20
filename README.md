@@ -1,5 +1,8 @@
 # Quantum Computing Knowledge Graph Relation Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23488404.svg)](https://doi.org/10.5281/zenodo.23488404)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 A sentence-level relation extraction dataset for quantum computing, built from
 759 peer-reviewed papers.
 
@@ -110,10 +113,14 @@ original publisher.
 ## Citation
 
 ```bibtex
-@dataset{quantum_kg_re_2026,
+@dataset{quantum_kg_relation_dataset_2026,
   title     = {Quantum Computing Knowledge Graph Relation Dataset},
+  author    = {lamugu},
   year      = {2026},
-  note      = {17,280 relation triples from 759 papers}
+  publisher = {Zenodo},
+  version   = {v1.0},
+  doi       = {10.5281/zenodo.23488404},
+  url       = {https://github.com/lamugu/quantum-kg-relation-dataset}
 }
 ```
 
