@@ -1,0 +1,22 @@
+{
+ "triples": 17280,
+ "papers": 759,
+ "entities": 15262,
+ "relation_types": 9,
+ "relation_distribution": {
+  "PART_OF": 4716,
+  "APPLIED_TO": 3252,
+  "LIMITED_BY": 2615,
+  "IMPLEMENTED_ON": 1933,
+  "COMPARES_WITH": 1367,
+  "BASED_ON": 1285,
+  "ENABLES": 971,
+  "MITIGATES": 735,
+  "COMBINES_WITH": 406
+ },
+ "split_sizes": {
+  "train": 19844,
+  "dev": 2871,
+  "test": 2635
+ }
+}
